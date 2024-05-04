@@ -3,6 +3,7 @@
 ### 简体中文
 
 这是一个VRCHAT AVATAR插件（可使用ma安装）。基于[Selective-Animation](https://github.com/VRLabs/Selective-Animation)修改开发。
+
 本插件可以让被指着的人触发动画而其他人看不见。相对于Selective-Animation，本插件能让使用者知道自己的触发状态，是否有人触发过，防止误触。
 
 感谢VRLabs开发的插件带来的灵感
@@ -39,9 +40,14 @@ FX层直接安装：
 ### English
 
 This is a VRCHAT AVATAR plugin (can be installed using MA). Based on [Selective Animation]（ https://github.com/VRLabs/Selective-Animation ）Modify development.
+
 This plugin allows the pointed person to trigger an animation that others cannot see. Compared to Selective Animation, this plugin allows users to know their triggering status, whether someone has triggered it, and prevent accidental triggering.
-Thank you for the inspiration brought by the plugins developed by VRLabs
-Package required by plugin
+
+
+
+Thanks for the inspiration brought by the plugins developed by VRLabs
+
+Package required by plugin:
 Selective Animation: https://github.com/VRLabs/Selective-Animation
 Final IK Stub: https://github.com/VRLabs/Final-IK-Stub
 
@@ -68,10 +74,12 @@ I can use various animation merge tools, and I recommend [Avatars 3.0 Manager]�
 ### 日本語
 
 これはVRCHAT AVATARプラグインです（maインストールを使用可能）。[Selective-Animation]（https://github.com/VRLabs/Selective-Animation）開発を修正する。
+
 このプラグインは、指差された人が他の人に見えないようにアニメーションをトリガすることができます。Selective-Animationに対して、このプラグインは使用者に自分のトリガ状態を知ってもらうことができて、誰かがトリガしたことがあるかどうか、誤タッチを防ぐことができます。
 
 VRLabsが開発したプラグインによるインスピレーションに感謝します
-プラグインに必要なパッケージ
+
+プラグインに必要なパッケージ:
 Selective-Animation：https://github.com/VRLabs/Selective-Animation
 Final IK Stub：https://github.com/VRLabs/Final-IK-Stub
 
