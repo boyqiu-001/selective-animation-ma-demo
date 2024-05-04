@@ -73,13 +73,15 @@ Final IK Stub：https://github.com/VRLabs/Final-IK-Stub
 
 
 
-#######インストール方法
+###インストール方法
 maインストール：
 まず［modular-avater］（https://github.com/bdunderscore/modular-avatar)： 
 1.Selective-Animation、Final IK Stub、Selective Animation ma demoのインポート
 2.プレフォームをavatarにドラッグして解凍する
 3.修正が必要なmeshをcontainerにドラッグ
 4.animator内のアニメーションレイヤのアニメーションを変更する
+
+
 FXレイヤー直接インストール：
 さまざまなanimatorマージツールを使用でき、本人推奨[Avatars-3.0-Manager]（https://github.com/VRLabs/Avatars-3.0-Manager)
 1.Selective-Animation、Final IK Stub、Selective Animation ma demoのインポート
