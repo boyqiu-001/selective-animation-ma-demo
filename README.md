@@ -1,5 +1,5 @@
 
-[简体中文](### 简体中文)|[English](### English)|[日本語](### 日本語)
+## [简体中文](#简体中文)|[English](#English)|[日本語](#日本語)
 
 ### 简体中文
 这是一个VRCHAT AVATAR插件（可使用ma安装）。基于[Selective-Animation](https://github.com/VRLabs/Selective-Animation)修改开发。
