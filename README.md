@@ -53,14 +53,16 @@ Please ensure that the [module avatar] has been imported first（ https://github
 2. Drag the prefabricated body into avatar and decompress it
 3. Drag the mesh that needs to be modified into the container
 4. Modify the animation of the animation layer in the animator
-   FX layer direct installation:
-   I can use various animation merge tools, and I recommend [Avatars 3.0 Manager]（ https://github.com/VRLabs/Avatars-3.0-Manager ）
-5. Import Selective Animation, Final IK Stub, Selective Animation ma demo
-6. Drag the prefabricated body into avatar and decompress it
-7. Move the Selective Animation in the Selective Animation ma demo to the avatar
-8. Merge Animators (Assets/Selective Animation/animation/test/demo)
-9. Add SelectiveAnimation/function_open to VRC Expression Parameters
-10. Add a toggle switch
+
+FX layer direct installation:
+I can use various animation merge tools, and I recommend [Avatars 3.0 Manager]（ https://github.com/VRLabs/Avatars-3.0-Manager ）
+
+1. Import Selective Animation, Final IK Stub, Selective Animation ma demo
+2. Drag the prefabricated body into avatar and decompress it
+3. Move the Selective Animation in the Selective Animation ma demo to the avatar
+4. Merge Animators (Assets/Selective Animation/animation/test/demo)
+5. Add SelectiveAnimation/function_open to VRC Expression Parameters
+6. Add a toggle switch
 
 
 ### 日本語
